@@ -4,4 +4,7 @@
 ---
 
 [Пример тестового задания](https://docs.google.com/spreadsheets/d/1Ui5kcIN-EZJJtUbxP03VsHW_a1KOQ_KORl75nZudZDg/edit?usp=drivesdk)
+
+---
+
 [Пример тестового задания](https://kokoz.atlassian.net/jira/software/projects/KON/boards/1)
